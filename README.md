@@ -323,7 +323,7 @@ The dashboard was built by connecting Power BI directly to SQL Server.
 
 ## Entity Relationship Diagram
 
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER_Diagram.png.png)
 
 ---
 
