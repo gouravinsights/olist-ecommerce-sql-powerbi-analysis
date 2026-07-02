@@ -311,13 +311,13 @@ The dashboard was built by connecting Power BI directly to SQL Server.
 
 ## Executive Dashboard
 
-![Executive Dashboard](Executive_Dashboard.png)
+![Executive Dashboard](Dashboard_Executive.png)
 
 ---
 
 ## Sales & Customer Insights Dashboard
 
-![Sales Dashboard](Sales_Customer_Dashboard.png)
+![Sales Dashboard](Dashboard_Sales.png)
 
 ---
 
